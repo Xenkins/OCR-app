@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Aug 12 00:41:36 EDT 2020
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\ansel\\OneDrive\\Desktop\\Projects\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
